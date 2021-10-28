@@ -1,0 +1,4 @@
+﻿  Program14_10Numbers.cpp
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(68,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(76,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Program14_10Numbers.vcxproj -> C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Debug\Program14_10Numbers.exe
