@@ -58,6 +58,7 @@ int main()
     int input1;
     int input2;
     int input3;
+    int newAverage = 2;
     cin >> input1;
     cout << "Input 1 = " <<input1 << endl;
     cin >> input2;
@@ -73,7 +74,8 @@ int main()
         cin >> input3;
         int newTotal = total + input3;
         cout << "total + newInput = " << newTotal << endl;
-        float newAverage = newTotal / 2;// this needs to go up every time
+        float newAverage = newTotal / newAverage;
+        newAverage++;
         cout << "Average of All inputs total is = " << newAverage << endl;
     } while (input3 > 0);
 
