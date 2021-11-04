@@ -1,5 +1,4 @@
-// Program14_10Numbers.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 
 #include <iostream>
 using namespace std;
@@ -55,10 +54,10 @@ int main()
 
     //} while (true);
 
-    int input1;
-    int input2;
-    int input3;
-    int newAverage = 2;
+    float input1;
+    float input2;
+    float input3;
+    float addAverage = 2;
     cin >> input1;
     cout << "Input 1 = " <<input1 << endl;
     cin >> input2;
@@ -72,10 +71,10 @@ int main()
     do
     {
         cin >> input3;
-        int newTotal = total + input3;
+        float newTotal = total + input3;
+        total = newTotal;
         cout << "total + newInput = " << newTotal << endl;
-        float newAverage = newTotal / newAverage;
-        newAverage++;
+        float newAverage = newTotal / addAverage++;
         cout << "Average of All inputs total is = " << newAverage << endl;
     } while (input3 > 0);
 
