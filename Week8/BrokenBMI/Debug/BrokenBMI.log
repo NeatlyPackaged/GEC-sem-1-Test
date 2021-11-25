@@ -1,0 +1,6 @@
+﻿  BrokenBMI.cpp
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week8\BrokenBMI\BrokenBMI.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week8\BrokenBMI\BrokenBMI.cpp(28,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week8\BrokenBMI\BrokenBMI.cpp(28,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week8\BrokenBMI\BrokenBMI.cpp(16,9): warning C4101: 'bmi': unreferenced local variable
+  BrokenBMI.vcxproj -> C:\Users\b017629l\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week8\BrokenBMI\Debug\BrokenBMI.exe
