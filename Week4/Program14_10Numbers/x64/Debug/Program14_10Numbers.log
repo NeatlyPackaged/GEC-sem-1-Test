@@ -1,5 +1,6 @@
 ﻿  Program14_10Numbers.cpp
-C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(66,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(68,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(75,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(18,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(20,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\Program14_10Numbers.cpp(27,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  LINK : C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\x64\Debug\Program14_10Numbers.exe not found or not built by the last incremental link; performing full link
   Program14_10Numbers.vcxproj -> C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week4\Program14_10Numbers\x64\Debug\Program14_10Numbers.exe

@@ -1,0 +1,18 @@
+﻿  SwappingValuesWithPointers.cpp
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(8,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(31,23): error C2146: syntax error: missing ';' before identifier 'num1'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(31,35): error C2563: mismatch in formal parameter list
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(31,35): error C2568: '<<': unable to resolve function overload
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(31,35): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(32,23): error C2146: syntax error: missing ';' before identifier 'num2'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(32,35): error C2563: mismatch in formal parameter list
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(32,35): error C2568: '<<': unable to resolve function overload
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(32,35): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(37,23): error C2146: syntax error: missing ';' before identifier 'num1'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(37,35): error C2563: mismatch in formal parameter list
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(37,35): error C2568: '<<': unable to resolve function overload
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(37,35): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(38,23): error C2146: syntax error: missing ';' before identifier 'num2'
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(38,35): error C2563: mismatch in formal parameter list
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(38,35): error C2568: '<<': unable to resolve function overload
+C:\Users\lukeb\source\repos\NeatlyPackaged\GEC-sem-1-Test\Week9\SwappingValuesWithPointers\SwappingValuesWithPointers.cpp(38,35): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'

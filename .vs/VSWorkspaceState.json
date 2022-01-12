@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Week1",
+    "\\Week1\\GEC-sem-1-Test",
+    "\\Week1\\GEC-sem-1-Test\\HelloWorld",
+    "\\Week1\\GEC-sem-1-Test\\HelloWorld\\Program4_userDefinedVars",
+    "\\Week1\\Program4_userDefinedVars",
+    "\\Week1\\Program4_userDefinedVars\\Program4_userDefinedVars",
+    "\\Week7",
+    "\\Week7\\Initials",
+    "\\Week8"
   ],
+  "SelectedNode": "\\Week1\\Program4_userDefinedVars\\Program4_userDefinedVars\\Program4_userDefinedVars.cpp",
   "PreviewInSolutionExplorer": false
 }

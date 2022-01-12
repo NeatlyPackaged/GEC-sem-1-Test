@@ -5,12 +5,14 @@
 using namespace std;
 int main()
 {
-
+	// creates a reference to what the star digit is
 	char starDigit = '*';
 	int inputNumber = 0;
 
+	//while the restart is always set to true, the system will ask for an input between 1 and 10 and will let the player input so the system could change the number to stars
 	while (true)
 	{
+		//the output and input of the number of stars you want
 		cout << "Enter a number between 1 and 10" << endl;
 		cin >> inputNumber;
 
@@ -20,7 +22,7 @@ int main()
 			out += starDigit;
 			cout << out << endl;
 		}
-
+		// this will display a text that asks if the user wants to enter another number or wants to quit
 		while (true)
 		{
 			char endOfDialogue;

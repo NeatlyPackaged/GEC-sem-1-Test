@@ -4,70 +4,28 @@
 using namespace std;
 int main()
 {
-    /*int i = 0;
-    while (i < 10)
-    {
-        cout << "i = " << i << endl;
-        i++;
-    }*/
-
-    /*for (int i = 0; i < 10; i++)
-    {
-        //Output the current line
-        cout << "Line: " << i << endl;
-
-        //Nested loop to output 10 numbers.
-        for (int j = 0; j < 10; j++)
-            cout << j << " ";
-
-        //Move on to the line below
-        cout << endl;
-    }*/
-
-
-   /*for (int i = 0; i < 10; i++)
-    {
-        //Break out of this loop
-        if (i == 3)
-            break;
-    }*/
-
-    /*for (int i = 0; i < 10; i++)
-    {
-        //Skip iteration 3 of this loop
-        if (i == 3)
-            continue;
-
-        //Output i so we can see if 3 gets output
-        cout << "i = " << i << endl;
-    }*/
-    //for (int i = 0; i < 10; i++)
-    //{
-
-    //}
-    //while (true)
-    //{
-
-    //}
-    //do
-    //{
-
-    //} while (true);
-
+    
+    // variables for each input method and average beginner
     float input1;
     float input2;
     float input3;
     float addAverage = 2;
+    //input the first number
     cin >> input1;
+    //outputs the first number
     cout << "Input 1 = " <<input1 << endl;
+    //input the second number
     cin >> input2;
+    //outputs the second number
     cout << "Input 2 = " << input2 << endl;
-    
+    // creates a total of the two inputs and outputs the total
     int total = input1 + input2;
     cout << "Input 1 + Input 2 = " << total << endl;
+    // starts the average of both inputs
     float average = total /2;
     cout << "Average of Both inputs total is = " << average << endl;
 
+    // this will allow the player to input a new input everytime to add to the total and average and will only end when the player hits 0
     do
     {
         cin >> input3;
